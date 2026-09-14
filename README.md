@@ -1,5 +1,7 @@
 # Island - 4k
 
+![Screenshot](screenshot.jpg)
+
 4k intro released at [Revision 2024](https://2024.revision-party.net/).
 
 ## Links
